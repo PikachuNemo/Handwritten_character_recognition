@@ -1,17 +1,2 @@
 # Ignore virtual environment
 char_env/
-
-# Ignore Python bytecode
-__pycache__/
-*.py[cod]
-
-# Ignore logs and system files
-*.log
-*.bak
-*.swp
-.DS_Store
-Thumbs.db
-
-# Ignore IDE config files
-.vscode/
-.idea/

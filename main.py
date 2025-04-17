@@ -10,5 +10,17 @@ mnist = tf.keras.daasets.mnist
 x_train = tf.keras.utils.normalize(x_train, axis=1)
 x_test = tf.keras.utils.normalize(x_test, axis=1)
 
-model = tf.keras.models.Sequential()
-model.add(tf.keras.layers.Flatten(input_shape=(28, 28)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
